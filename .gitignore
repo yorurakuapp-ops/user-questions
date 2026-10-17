@@ -1,0 +1,10 @@
+# 本名などの個人情報を含む規約の下書き（Word）
+*.docx
+
+# Windows / OneDrive のシステムファイル
+desktop.ini
+Thumbs.db
+
+# 秘密情報
+.env
+.env.*
