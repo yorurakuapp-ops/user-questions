@@ -5,6 +5,9 @@
 desktop.ini
 Thumbs.db
 
+# アプリのソースコード一式（設定・サーバー側コードを含む）
+*.zip
+
 # 秘密情報
 .env
 .env.*
