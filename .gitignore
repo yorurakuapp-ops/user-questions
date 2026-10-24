@@ -11,3 +11,6 @@ Thumbs.db
 # 秘密情報
 .env
 .env.*
+
+# アプリ本体のソース（展開済みフォルダ。zip と同じ扱い）
+yoruraku_public*/
